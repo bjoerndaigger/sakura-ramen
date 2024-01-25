@@ -9,8 +9,8 @@ import { NavbarComponent } from "./navbar/navbar.component";
     <section>
         <div><app-navbar></app-navbar></div>
         <div class="headline">
-            <h1 class="fontRaleway">SAKURA RAMEN</h1>
-            <h2 class="fontRaleway">THE BEST RAMEN IN TOWN</h2>
+            <h1>SAKURA RAMEN</h1>
+            <h2>THE BEST RAMEN IN TOWN</h2>
         </div>
     </section>
     `,

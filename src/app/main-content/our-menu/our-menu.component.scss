@@ -1,0 +1,24 @@
+section {
+    padding: 32px;
+    background-image: url('./../../../assets/img/3_section_our_menu/JPG/section_our_menu_bg.jpg');
+    background-size: cover;
+
+    >h2 {
+        text-align: center;
+    }
+}
+
+.menu-container {
+    padding: 32px;
+    display: flex;
+    justify-content: space-evenly;
+
+    img {
+        width: 150px;
+        height: 150px;
+    }
+}
+
+.flex-reverse {
+    flex-direction: row-reverse;
+}
